@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+T_Gold_Inlay_Marble_Tiles_vdfjbfvv_8K_D filter=lfs diff=lfs merge=lfs -text
+T_Gold_Inlay_Marble_Tiles_vdfjbfvv_8K_D.uasset filter=lfs diff=lfs merge=lfs -text
